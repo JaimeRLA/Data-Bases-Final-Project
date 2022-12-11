@@ -1,0 +1,1 @@
+create index centrales_idx on centrales(codcentral,denom);
